@@ -14,3 +14,4 @@ This repository contains a collection of React components that demonstrate vario
 ## Medium Questions
 1. Markdown Editor
 2. Tabs Component
+3. Word Counter
