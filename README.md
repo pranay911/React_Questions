@@ -7,6 +7,8 @@ This repository contains a collection of React components that demonstrate vario
 2. Color Explorer
 3. Read More Toggle
 4. Confirmation Modal
+5. Back to Top
+6. Filtered Recipes
 
 
 ## Medium Questions
