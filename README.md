@@ -9,6 +9,9 @@ This repository contains a collection of React components that demonstrate vario
 4. Confirmation Modal
 5. Back to Top
 6. Filtered Recipes
+7. Password Strength Checker
+8. Get Weekday
+9. Toggle button with Custom Hook
 
 
 ## Medium Questions
